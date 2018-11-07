@@ -5,13 +5,13 @@ def is_prime(n):
             return False
         
     return True
-is_prime()
+    
+    
 def get_largest_prime(n):
     
     for i in range (2,int(n)+1):
         if is-prime(i):
-            h = i
+            num = i
         
 
-    return (h)    
-get_largest_prime(5)
+    return (num)    
