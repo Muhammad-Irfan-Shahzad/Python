@@ -1,2 +1,1 @@
-# Code
-it is about python
+# python codes
