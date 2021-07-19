@@ -1,0 +1,4 @@
+In above code file variable declare in class 
+The Name variable are public but __Roll variable are Private we do not access on out of class.
+Both variable assign value by using constructor and display their values using display function
+in display we call getter of these variable and display values on console.
